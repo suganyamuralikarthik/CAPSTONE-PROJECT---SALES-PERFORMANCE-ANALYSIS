@@ -1,2 +1,2 @@
 # CAPSTONE PROJECT-SALES PERFORMANCE ANALYSIS
-This project Analysis sales performance data to evaluate the data
+This project is Analysis sales performance data to evaluate revenur,profit,sales trends using Excel.
